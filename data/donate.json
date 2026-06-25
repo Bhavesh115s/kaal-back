@@ -1,0 +1,10 @@
+{
+  "suggested_amounts": [100, 500, 2000, 5000],
+  "currency": "INR",
+  "message": "Your contribution helps keep Kaal AI accessible for everyone.",
+  "impact_points": [
+    "Supports daily meditation content",
+    "Helps maintain AI infrastructure",
+    "Enables free access for users"
+  ]
+}

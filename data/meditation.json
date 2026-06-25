@@ -1,0 +1,33 @@
+{
+  "modes": [
+    {
+      "name": "Beginner",
+      "inhale": 4,
+      "hold": 4,
+      "exhale": 4,
+      "description": "Perfect for starting your practice"
+    },
+    {
+      "name": "Normal",
+      "inhale": 4,
+      "hold": 4,
+      "exhale": 6,
+      "description": "Balanced breathing for daily practice"
+    },
+    {
+      "name": "Deep",
+      "inhale": 5,
+      "hold": 5,
+      "exhale": 8,
+      "description": "Extended breathing for deep relaxation"
+    }
+  ],
+  "guidanceTexts": [
+    "Let your shoulders relax.",
+    "Allow thoughts to pass without judgment.",
+    "Bring attention back to your breath.",
+    "Feel the tension leaving your body.",
+    "Notice the rhythm of your breathing.",
+    "You are safe in this moment."
+  ]
+}

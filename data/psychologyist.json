@@ -1,0 +1,46 @@
+[
+  {
+    "id": "psy_01",
+    "name": "Dr. Priya Sharma",
+    "specialization": "Anxiety & Stress Management",
+    "experience_years": 12,
+    "rating": 4.9,
+    "mode": ["online"],
+    "badge": "Online",
+    "session_type": "Online Video Sessions Available",
+    "image": "/images/psychologists/priya.jpg"
+  },
+  {
+    "id": "psy_02",
+    "name": "Dr. Rajesh Kumar",
+    "specialization": "Youth & Adolescent Psychology",
+    "experience_years": 10,
+    "rating": 4.8,
+    "mode": ["online"],
+    "badge": "Online",
+    "session_type": "Online Video Sessions Available",
+    "image": "/images/psychologists/rajesh.jpg"
+  },
+  {
+    "id": "psy_03",
+    "name": "Dr. Ananya Iyer",
+    "specialization": "Depression & Mood Disorders",
+    "experience_years": 15,
+    "rating": 5.0,
+    "mode": ["online"],
+    "badge": "Online",
+    "session_type": "Online Video Sessions Available",
+    "image": "/images/psychologists/ananya.jpg"
+  },
+  {
+    "id": "psy_04",
+    "name": "Dr. Vikram Mehta",
+    "specialization": "Career & Life Transitions",
+    "experience_years": 8,
+    "rating": 4.7,
+    "mode": ["online"],
+    "badge": "Online",
+    "session_type": "Online Video Sessions Available",
+    "image": "/images/psychologists/vikram.jpg"
+  }
+]

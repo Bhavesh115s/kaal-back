@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Understanding the Self: Bhagavad Gita Discussion",
+      "date": "2026-02-15",
+      "time": "6:00 PM IST",
+      "type": "online",
+      "description": "A philosophical exploration of self-awareness and identity through key teachings",
+      "facilitator": "Dr. Priya Sharma"
+    },
+    {
+      "id": 2,
+      "title": "Stress Management Through Ancient Wisdom",
+      "date": "2026-02-20",
+      "time": "5:30 PM IST",
+      "type": "in-person",
+      "location": "Mumbai, Maharashtra",
+      "description": "Learn practical techniques to manage modern stress using timeless principles",
+      "facilitator": "Rohan Mehta"
+    },
+    {
+      "id": 3,
+      "title": "Youth Mental Wellness Circle",
+      "date": "2026-02-25",
+      "time": "7:00 PM IST",
+      "type": "online",
+      "description": "A safe space for young people to share experiences and gain perspective",
+      "facilitator": "Ananya Gupta"
+    }
+  ]
+}

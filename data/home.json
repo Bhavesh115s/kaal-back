@@ -1,0 +1,22 @@
+{
+  "headline": "Guidance for the Modern Mind",
+  "description": "KAAL AI helps young minds navigate stress using timeless wisdom from the Bhagavad Gita.",
+  "cta": "Start Conversation",
+  "features": [
+    {
+      "title": "Ancient Insight",
+      "description": "Rooted in the timeless wisdom of the Bhagavad Gita.",
+      "icon": "book"
+    },
+    {
+      "title": "Human-First AI",
+      "description": "A calm, ethical, and non-judgmental space.",
+      "icon": "heart"
+    },
+    {
+      "title": "Safe & Private",
+      "description": "Secure environment for self-reflection.",
+      "icon": "shield"
+    }
+  ]
+}

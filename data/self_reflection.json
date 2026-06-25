@@ -1,0 +1,87 @@
+{
+  "id": "mental_clarity_assessment",
+  "title": "Assess Your Mental Clarity",
+  "description": "Answer 8 questions honestly to understand your current stress and clarity levels",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How often do you feel overwhelmed by daily tasks?",
+      "options": [
+        "Rarely or never",
+        "Occasionally",
+        "Frequently",
+        "Almost always"
+      ],
+      "score": [0, 1, 2, 3]
+    },
+    {
+      "id": 2,
+      "question": "How well are you able to focus on one task at a time?",
+      "options": ["Very well", "Fairly well", "With difficulty", "Not at all"],
+      "score": [0, 1, 2, 3]
+    },
+    {
+      "id": 3,
+      "question": "How often do you feel mentally tired?",
+      "options": ["Rarely", "Sometimes", "Often", "Almost always"],
+      "score": [0, 1, 2, 3]
+    },
+    {
+      "id": 4,
+      "question": "How calm do you feel during stressful situations?",
+      "options": [
+        "Very calm",
+        "Somewhat calm",
+        "Easily disturbed",
+        "Very anxious"
+      ],
+      "score": [0, 1, 2, 3]
+    },
+    {
+      "id": 5,
+      "question": "How satisfied are you with your daily routine?",
+      "options": [
+        "Very satisfied",
+        "Somewhat satisfied",
+        "Not very satisfied",
+        "Not satisfied at all"
+      ],
+      "score": [0, 1, 2, 3]
+    },
+    {
+      "id": 6,
+      "question": "How often do you take time to pause and reflect?",
+      "options": ["Daily", "A few times a week", "Rarely", "Never"],
+      "score": [0, 1, 2, 3]
+    },
+    {
+      "id": 7,
+      "question": "How clear do you feel about your current goals?",
+      "options": ["Very clear", "Somewhat clear", "Unclear", "Very confused"],
+      "score": [0, 1, 2, 3]
+    },
+    {
+      "id": 8,
+      "question": "How often do you feel emotionally balanced?",
+      "options": ["Almost always", "Often", "Sometimes", "Rarely"],
+      "score": [0, 1, 2, 3]
+    }
+  ],
+  "result_ranges": [
+    {
+      "range": "0-6",
+      "label": "High Mental Clarity",
+      "message": "You seem calm, focused, and emotionally balanced."
+    },
+    {
+      "range": "7-14",
+      "label": "Moderate Stress",
+      "message": "Some stress is present. Regular reflection and rest can help."
+    },
+    {
+      "range": "15-24",
+      "label": "High Stress",
+      "message": "You may be feeling overwhelmed. Consider meditation or professional support."
+    }
+  ]
+}
